@@ -1,6 +1,8 @@
 
 # OpenAI-GoogleSheets-Script-Example
 
+![Showcase of Functionality](showcase.gif)
+
 This repository provides a Google Apps Script example for integrating OpenAI's GPT API with Google Sheets. The script allows users to call GPT models directly from Google Sheets using a custom function, enabling powerful text generation and AI-driven insights within your spreadsheets.
 
 ## Overview
